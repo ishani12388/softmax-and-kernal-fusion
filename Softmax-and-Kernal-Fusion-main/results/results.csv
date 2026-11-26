@@ -1,0 +1,4 @@
+method,time_ms,speedup
+CPU,107.615,1
+GPU_Unfused,1.2544,85.7903
+GPU_Fused,0.847872,126.924
